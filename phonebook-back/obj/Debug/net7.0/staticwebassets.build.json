@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "r3S9iRF0M6JwB1vgzBtZh0tgN2ucBsUM9u2zN5MEwtc=",
+  "Source": "phonebook-back",
+  "BasePath": "_content/phonebook-back",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
